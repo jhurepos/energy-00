@@ -25,7 +25,7 @@ Here is the Preface this document deserves.
 
 ---
 
-# Preface: The Vertical Escape Velocity
+# [Preface: The Vertical Escape Velocity](https://ukb-dt.github.io/ed-03/)
 
 Current AI development is defined by terrestrial friction: the diurnal cycle of the sun, the scarcity of water for cooling, and the capacity of local power grids. We treat these as constants in the **Landscape**.
 
